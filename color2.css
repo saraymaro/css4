@@ -22,13 +22,16 @@ h2{
 .color-1{
     background-color: red;
     left: 192px;
+    mix-blend-mode: screen;
 }
 .color-2{
     background-color: lime;
     top: 41px;
     left: 220px;
+    mix-blend-mode: screen;
 }
 .color-3{
     background-color: blue;
     left: 242px;
+    mix-blend-mode: screen;
 }
